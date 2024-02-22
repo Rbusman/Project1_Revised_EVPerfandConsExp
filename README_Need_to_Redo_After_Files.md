@@ -126,17 +126,23 @@ The data was constrained for the 2023 model year due to the number of available 
 
 ### 3.) Charging:  Charging times and trends
 ####Exploration(s):
-
+The data was collected from ChargePoint, the second largest charing network behind Tesla Motors.   The data was examined to determine the number of charging points, charging behavior of Electric Vehicle owners, and the time it takes to charge elecrtric vehicles.   
 ####Possible variables:
-*Independent variables/Features*:   
+*Independent variables/Features*:   Cost of Kilowatts per hour for electricity, Days of the Week, Number of charging points
 
-*Dependent variables/Labels*:  
+*Dependent variables/Labels*:  Days of the week, Average charging time in Hours
 
 ####Data Source:
+The Data was requested directly from ChargePoint, Inc..
 
-#####*Licensure and Credits*:  
+#####*Licensure and Credits*: ChargePoint, Inc..  Global Headquarters
+ChargePoint
+240 east Hacienda Avenue
+Campbell, CA  95008 USA
+TEL: 1-408-841-4500
+Email:  media@chargepoint.com
 
-#####*Limitations*: 
+#####*Limitations*: The charging data is limited to the metropolitian area that ChargePoint has charging stations.  There are roughly 162,000 electric vehicle charging p[oints in the United States and ChargePoint represents roughly 20,000 electric vehicle charging stations.  
 
 ### 4.) Barriers: Consumer barriers to EV adoption
 ####Exploration(s):
